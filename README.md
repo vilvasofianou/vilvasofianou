@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi I'm Vilva 👋
 
-<!--
-**vilvasofianou/vilvasofianou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨  **Data Platform Engineer | Quality & AI Enthusiast**  ✨  
 
-Here are some ideas to get you started:
+* 🛠️ **Data & Cloud Infrastructure:** I enjoy working with Terraform to automate infrastructure, using AWS & GCP, and setting up CI/CD (GitHub Actions) so deployments stay reliable and consistent, with data quality built into the process from the start.
+* 🎯 **Quality Assurance:** I love testing! Especially Web Apps across different systems, making sure there are no bugs and the user experience is smooth. I also validate APIs and run SQL queries to verify data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 📜 Certifications:
+* ☁️ **Google Cloud Generative AI Leader**
+* 📊 **Apache Spark™ Programming with Databricks**
+* 🧪 **ISTQB Certified Tester**
+
+
+
+### 🌱 I’m currently learning: 
+* 🤖 **AI & Model Evaluation:** Exploring LLM evaluation techniques, including golden datasets, reliability testing, hallucination detection, and response quality assessment.
+
+
+### ⚡ Fun fact:
+* I once tried Selenium before I knew what Java was... 🥲
+
+  
+
+🔗 [https://www.linkedin.com/in/vilva-sofianou/]
